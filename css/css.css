@@ -1,0 +1,121 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    color: #c9d1d9;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+    background: #0d1117;
+    display: block;
+    
+}
+/* LINK */
+
+a{
+    color: #388bfd;
+    text-decoration: none;
+}
+
+#contact:hover{
+    color: #388bfd;
+    border-bottom:#388bfd 2px solid;
+}
+
+/* PARAGRAPH*/
+
+h1{  box-sizing: border-box;
+    padding-bottom:20px ;
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: -0.5px;
+}
+
+form{
+    justify-content: center;
+    width: 18%;
+    height: 190px;
+    border-radius: 8px;
+    border: 1px solid #212121;
+    padding: 20px;
+    margin-left: 39.8%;
+    background: #21262d;
+
+}
+
+#fm .mb-3{
+    text-align: left;
+    margin-bottom: 21px;
+    line-height: 1.9;
+}
+
+/* INPUT */
+
+input{
+    padding:7.5px;
+    padding-right: 110px;
+    border-radius: 8px;
+    background: #0d1117;
+
+}
+
+/* BUTTON */
+button{
+
+    padding: 7.5px 110px 5px 117px;
+    color: #c9d1d9;
+    background: #238636;
+    border-radius: 8px;
+    border-color: #2ea043;
+    
+
+}
+
+button:hover{
+
+    background:#3fb950
+}
+
+
+/* SECTION */
+
+section{
+
+    margin: 20px;
+    margin-left: 39.9%;
+    margin-bottom: 60px;
+    border: 1px solid #c9d1d9;
+    justify-content: center;
+    width: 18.5%;
+    border-radius: 8px;
+    padding: 15px;
+    background: transparent;
+
+}
+
+
+/* LABEL */
+
+.form-label{
+    padding-right: 98px;
+
+}
+
+/* FOOTER*/
+
+ul li{
+
+    text-align: center;
+    font-size: 12px;
+    padding: 4px;
+    display: inline-flex;
+    margin: 3px;
+    
+}
+
+#contact{
+    color: #6e7681
+}
